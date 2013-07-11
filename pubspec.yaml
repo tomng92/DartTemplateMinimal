@@ -1,8 +1,8 @@
-name: TestGithub1
+name: DartTemplateProject
 version: 0.0.1
 author: Mr Personne <mypersonner@xxx.com>
 description: Some descript
-homepage: https://github.com/trippolo/TestGitHub1
+homepage: https://github.com/MrPersonne/DartTemplateProject
 documentation: 
 dependencies:
   unittest: any
