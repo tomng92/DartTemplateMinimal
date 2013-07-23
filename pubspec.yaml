@@ -1,8 +1,8 @@
-name: DartTemplateProject
+name: DartTemplateMinimal
 version: 0.0.1
-author: Mr Personne <mypersonner@xxx.com>
+author: tom.nguyen@xxx.com>
 description: Some descript
-homepage: https://github.com/MrPersonne/DartTemplateProject
+homepage: https://github.com/tomng92/DartTemplateMinimal
 documentation: 
 dependencies:
   unittest: any
